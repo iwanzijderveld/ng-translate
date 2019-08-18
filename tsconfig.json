@@ -16,6 +16,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@insanetlabs/translate": [
+        "dist/@insanetlabs/translate"
+      ],
+      "@insanetlabs/translate/*": [
+        "dist/@insanetlas/translate/*"
+      ]
+    }
   }
 }
