@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/iwanzijderveld/ng-translate.svg?branch=master)](https://travis-ci.org/iwanzijderveld/ng-translate)
-
 # Installation
 You can install the package with yarn or npm
 `yarn add @insanetlabs/translate` or `npm i @insanetlabs/translate`
