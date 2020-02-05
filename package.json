@@ -48,6 +48,7 @@
     "tsickle": "^0.37.1",
     "tslib": "^1.9.0",
     "tslint": "~5.11.0",
-    "typescript": "~3.1.1"
+    "typescript": "~3.1.1",
+    "serialize-javascript": "~2.1.1"
   }
 }
